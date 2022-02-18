@@ -61,6 +61,9 @@ a{
 .margin-right10{
     margin-right: 10px;
 }
+.padding-10{
+    padding: 10px;
+}
 .flex{
     display: flex;
 }
@@ -84,6 +87,9 @@ a{
 }
 .bg-light-blue{
     background-color: hsl(209deg 100% 50%);
+}
+.bg-light-green{
+    background-color: hsl(147deg 56% 87%);
 }
 .bg-yellow{
     background-color: yellow;
