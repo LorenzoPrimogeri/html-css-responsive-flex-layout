@@ -116,7 +116,7 @@ a{
     font-size: 30px;
 }
 .hidden{
-    visibility: hidden;
+    display: none;
 }
 /* /utlity */
 /* start header */

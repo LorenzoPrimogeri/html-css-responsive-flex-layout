@@ -3,7 +3,7 @@
        display: none;
     }
     .hidden{
-        visibility: visible;
+       display: flex;
     }
     .utility .conteiner{
         flex-wrap: wrap;
@@ -28,4 +28,17 @@
     .me{
         flex-wrap: wrap;
     }
+}
+@media screen and (min-width:501px) and (max-width:1024px) {
+    .show{
+        display: none;
+     }
+     .hidden{
+        display: flex;
+     }
+}
+@media screen and (min-width:1025px){
+   .logo{
+       width: 20%;
+   }
 }
