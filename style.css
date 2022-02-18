@@ -153,6 +153,7 @@ header .conteiner{
 }
 .nbox{
     width: calc(100% / 3 - 10px);
+    margin-bottom: 20px;
 }
 /* /utility */
 /* gallery */
