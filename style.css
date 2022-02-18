@@ -115,6 +115,9 @@ a{
 .font-size{
     font-size: 30px;
 }
+.hidden{
+    visibility: hidden;
+}
 /* /utlity */
 /* start header */
 
@@ -134,11 +137,9 @@ header .conteiner{
     padding: 5px 15px;
     font-size: 20px;
 }
-
 /* / header */
 
 /* start main */
-/*start utility */
 .utility .conteiner{
    margin-bottom: 15px;
 }
@@ -155,10 +156,6 @@ header .conteiner{
     width: calc(100% / 3 - 10px);
     margin-bottom: 20px;
 }
-/* /utility */
-/* gallery */
-
-/* /gallery */
 
 
 /* / main */
