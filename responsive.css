@@ -1,9 +1,31 @@
 @media screen and (max-width:500px) {
     .show{
-        visibility: hidden;
+       display: none;
     }
-    
     .hidden{
         visibility: visible;
+    }
+    .utility .conteiner{
+        flex-wrap: wrap;
+    }
+    .lbox{
+        margin-right: 0;
+        margin-bottom: 10px;
+        flex-wrap: wrap;
+    }
+    .sbox{
+        width: 100%;
+    }
+    .mobile{
+        width: 100%;
+    }
+    .gallery{
+        flex-wrap: wrap;
+    }
+    .nbox{
+        width: 100%;
+    }
+    .me{
+        flex-wrap: wrap;
     }
 }
