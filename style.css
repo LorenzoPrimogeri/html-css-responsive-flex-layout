@@ -61,8 +61,17 @@ a{
 .margin-right10{
     margin-right: 10px;
 }
+.mg-b-10{
+    margin-bottom: 10px;
+}
+.mg-t-10{
+    margin-top: 10px;
+}
 .mg-b-50{
     margin-bottom: 50px;
+}
+.pd-b-50{
+    padding-bottom: 50px;
 }
 .padding-10{
     padding: 10px;
@@ -138,7 +147,6 @@ header .conteiner{
     font-size: 20px;
 }
 /* / header */
-
 /* start main */
 .utility .conteiner{
    margin-bottom: 15px;
@@ -156,6 +164,4 @@ header .conteiner{
     width: calc(100% / 3 - 10px);
     margin-bottom: 20px;
 }
-
-
 /* / main */
